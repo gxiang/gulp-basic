@@ -1,0 +1,26 @@
+{
+  "name": "gulp-basic",
+  "version": "1.0.0",
+  "description": "Gulp setup for basic project",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gxiang/gulp-basic"
+  },
+  "keywords": [
+    "Gulp"
+  ],
+  "author": "Kang Guang Xiang",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",    
+    "gulp-autoprefixer": "^3.0.0",
+    "gulp-bower": "0.0.6",
+    "gulp-include": "^2.1.0",    
+    "gulp-sass": "^3.1.0",
+    "gulp-uglify": "^2.1.2"
+  }
+}
